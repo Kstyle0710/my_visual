@@ -1,4 +1,5 @@
 results/
 .idea/
 source/
-mapbox_token.py/
+.mapbox_token/
+.chart_studio_api/
